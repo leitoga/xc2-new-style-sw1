@@ -4,6 +4,13 @@ Mod para Xenoblade Chronicles 2 v3.0.1 de Switch 1: lleva los trajes New Style d
 con el arte del menú. **Repositorio privado, de uso personal**: los modelos y artes pertenecen a
 Nintendo / Monolith Soft y no deben redistribuirse.
 
+## Capturas
+
+| Pyra | Mythra |
+|---|---|
+| ![Pyra en el juego](capturas/pyra-en-juego.webp) | ![Mythra en el juego](capturas/mythra-en-juego.webp) |
+| ![Pyra en el menú](capturas/pyra-menu.webp) | ![Mythra en el menú](capturas/mythra-menu.webp) |
+
 ## Descargar (sección Releases, v1.0)
 
 | Zip | Para | Instalación | Probado |
